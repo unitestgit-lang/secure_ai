@@ -62,14 +62,6 @@ foreach ($m in "basic","secure") {
 }
 ```
 
-## Results
-| Prompt Type | Files Scanned | Vulnerable Files | Rate |
-|---|---|---|---|
-| Bare | _fill in_ | _fill in_ | _fill in_ |
-| Secure | _fill in_ | _fill in_ | _fill in_ |
-
-Initial result (SQL01): Bare = 1 finding (CWE-89), Secure = 0 findings.
-
 ## Limitations
 - Small sample size; results are indicative, not statistically conclusive.
 - Semgrep may produce false negatives and false positives.
